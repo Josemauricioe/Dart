@@ -1,5 +1,6 @@
 void main(List<String> args) {
-  
+  Livro livro = Livro("autor", "editora", 5225363, "titulo", "categoria", 63636373);
+  List <Livro> [];
 }
 
 class Livro{
