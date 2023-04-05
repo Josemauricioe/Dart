@@ -5,9 +5,9 @@ void main(List<String> args) {
   
   List <Livro> livros = [];
   
-  livros.add(Livro("José", "naja Book", 252525658, "Um pouco sozinho", "drama", "22/05/2023"));
+  livros.add(Livro("Jose", "naja Book", 252525658, "Um pouco sozinho", "drama", "22/05/2023"));
   livros.add(Livro("Rafael", "Livro pro", 252, "A morte da cachorra", "Comédia", "22/05/2000"));
-  livros.add(Livro("joão", "editora", 252, "pokemon", "terror", "22/05/2006"));
+  livros.add(Livro("joao", "editora", 252, "pokemon", "terror", "22/05/2006"));
 
 void Mostra_por_categoria(){
   print("QUal categoria dejesa ver?");
